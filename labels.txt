@@ -1,0 +1,40 @@
+0 Maize Cercospora leaf spot 
+1 Maize Common Rust
+2 Maize Healthy
+3 Maize Northern Leaf Blight
+4 Potato Early Blight
+5 Potato Healthy
+6 Potato Late Blight
+7 Tomato Bacterial Spot
+8 Tomato Early Blight
+9 Tomato Healthy
+10 Tomato Late Blight
+11 Tomato Leaf Mold
+12 Tomato Septoria Leaf Spot
+13 Tomato Spider Mites
+14 Tomato Target Spot
+15 Tomato Mosaic Virus
+16 Tomato Yellow Leaf Curl Disease
+17 Groundnuts Early Leaf Spot
+18 Groundnuts Healthy
+19 Groundnuts Late Leaf Spot
+20 Groundnuts Nutrition Deficiency
+21 Groundnuts Rust
+22 Eggplant Healthy
+23 Eggplant Insect Pest Disease
+24 Eggplant Leaf Spot
+25 Eggplant Mosaic Virus
+26 Eggplant Small Leaf Disease
+27 Eggplant White Mold Disease
+28 Eggplant Wilt Disease
+29 Sorghum Anthracnose and Red Rot
+30 Sorghum Cereal Grain molds
+31 Sorghum Covered Kernel smut
+32 Sorghum Head Smut
+33 Sorghum Loose Smut
+34 Sorghum Rust
+35 Onions Alternaria
+36 Onions Bulb Blight
+37 Onions Furasium
+38 Onions Healthy
+39 Onions Virosis
